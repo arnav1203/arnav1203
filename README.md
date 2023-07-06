@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on web development.<br> I am learning Data Structures and Algorithms.
+🔭I am a skilled web developer passionate about creating innovative and user-friendly experiences.<br>🎯 I thrive on collaborating with companies to deliver cutting-edge solutions that meet their unique needs.<br>🌱 Let's build something amazing together.
 
 
 ## 🌐 Socials:
