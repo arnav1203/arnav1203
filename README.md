@@ -70,12 +70,12 @@
 <br>
 <div align="center">
  <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav1203&show_icons=true&locale=en" alt="arnav1203" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav1203&show_icons=true&locale=en&theme=calm" alt="arnav1203" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav1203&" alt="arnav1203" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav1203&theme=calm" alt="arnav1203" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav1203&show_icons=true&locale=en&layout=compact" alt="arnav1203" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav1203&show_icons=true&locale=en&layout=compact&theme=calm" alt="arnav1203" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav1203" alt="arnav1203" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav1203&theme=calm" alt="arnav1203" /></a> </p>
 
