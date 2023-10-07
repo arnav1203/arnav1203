@@ -1,11 +1,13 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Arnav Asthana</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+<br><br><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav1203&label=Profile%20views&color=0e75b6&style=flat" alt="arnav1203" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav1203" alt="arnav1203" /></a> </p>
+
+<h2>
+
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -16,6 +18,13 @@
 - 👨‍💻 All of my projects are available at [https://arnav-asthana.netlify.app/](https://arnav-asthana.netlify.app/)
 
 - ⚡ Fun fact **I am a basketball player too😊.**
+</h2>
+
+<br><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arnav1203&label=Profile%20views&color=0e75b6&style=flat" alt="arnav1203" /> </p>
+<br><br>
+
+# Connect with me:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arnav-asthana.netlify.app/" target="_blank" ><img src="arinLogo.png" height="70" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav1203&show_icons=true&locale=en" alt="arnav1203" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav1203&" alt="arnav1203" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav1203" alt="arnav1203" /></a> </p>
+
