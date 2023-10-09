@@ -79,3 +79,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav1203&theme=calm" alt="arnav1203" /></a> </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arnav1203&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
+<div align="center">
+
+
+
+
