@@ -1,87 +1,139 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
-<div><h1 align="center">Hi 👋, I'm Arnav Asthana</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
-<br><br>
-</div>
-
-<br><br>
-
-
-
-<h2>
-
-
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **machine learning and AI, exploring their applications in web development and beyond**
-
-- 👯 I’m looking to collaborate on **Full Stack Developmemt**
-
-- 👨‍💻 All of my projects are available at [https://arnav-asthana.netlify.app/](https://arnav-asthana.netlify.app/)
-
-- ⚡ Fun fact **I am a basketball player too😊.**
-</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arnav1203&label=Profile%20views&color=0e75b6&style=flat" alt="arnav1203" /></p>
-
-# Connect with me:
-
-<a href="https://arnav-asthana.netlify.app/" target="_blank"><img src="ArnavLogo.png" height="150" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arnav-asthana-ba7780228/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/arnav-asthana-ba7780228/"  width="90" /></a>
-<a href="https://instagram.com/arnav.asthana12" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="arnav.asthana12" width="90" /></a>
-<a href="https://twitter.com/ArnavAsthana12" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="ArnavAsthana12" width="90" /></a>
-<a href="https://discordapp.com/users/935529584038916096" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="ArnavAsthana12" width="90" /></a>
-
-# 💻 Tech:
-
-## Frontend
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="React" height="70" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="Bootstrap" height="70" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="CSS3" height="70" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="HTML5" height="70" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" height="70" /></a>   
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" /></a>  
-</div>
-
-## Backend
-
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="Node.js" height="70" /></a>  
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" alt="mongodb" height="70"/> </a>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="70" /></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" alt="C++" height="70" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="mysql" height="70"/> </a>
-<a href="https:https://www.oracle.com/in/" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/5803f75a03596e5d12bbb4ec/1620074252166-QOLC0KXYIBX6605PW7O3/oracle-title.gif" alt="oracle" height="70"/> </a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python" height="70" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" alt="Express.js" height="70" /></a>  
-</div>
-
-## Tools
-
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Git" height="70" /></a>   
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscode" height="70" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif" alt="Figma" height="70" /></a> 
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://petapixel.com/assets/uploads/2020/06/pslogo.gif" alt="Photoshop" height="70" /></a>  
-
-</div>
-<br>
-<div align="center">
- <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav1203&show_icons=true&locale=en&theme=calm" alt="arnav1203" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav1203&theme=calm" alt="arnav1203" /></p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav1203&show_icons=true&locale=en&layout=compact&theme=calm" alt="arnav1203" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav1203&theme=calm" alt="arnav1203" /></a> </p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arnav1203&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arnav%20Asthana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Finance%20%26%20Markets%20Enthusiast&descAlignY=55&descSize=16"/>
 
+</div>
 
+<div align="center">
+  <a href="https://arnav-asthana.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arnav-asthana-ba7780228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ArnavAsthana12" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/arnav.asthana12" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/935529584038916096" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
 
+<br/>
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
+
+## 👨‍💻 About Me
+
+- 🔭 Building full-stack web applications with a focus on **finance & market analytics**
+- 📈 Passionate about the **share market, mutual funds**, and data-driven financial tools
+- 🌱 Currently exploring **Machine Learning & AI** — with applications in fintech and web
+- 🤝 Open to collaborating on **Full Stack** or **Finance-tech** projects
+- 🏀 Basketball player when I'm not staring at charts
+- 💬 Ask me about **React, Node.js, MySQL, Python, or stock market automation**
+- 📫 Reach me at **[arnav-asthana.netlify.app](https://arnav-asthana.netlify.app/)**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div>
+
+### ⚙️ Backend
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
+
+### 🗄️ Databases
+<div>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</div>
+
+### 📊 Data & Finance
+<div>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSV%2FExcel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</div>
+
+### 🔧 Tools & Platforms
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+> I specialize in turning financial data into usable, fast web applications — from live market dashboards to mutual fund trackers and CSV-based analytics tools.
+
+| Domain | Focus |
+|---|---|
+| 📈 Share Market | Real-time dashboards, stock screeners, portfolio trackers |
+| 💰 Mutual Funds | NAV trackers, SIP calculators, fund comparison tools |
+| 📊 Analytics | CSV pipelines, Python data processing, chart-driven UIs |
+| 🌐 Full Stack | Node.js + React + MySQL end-to-end web applications |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arnav1203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav1203&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav1203&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnav1203&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnav1203&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like financial markets — patterns repeat, but context always matters."*
+
+<img src="https://komarev.com/ghpvc/?username=arnav1203&label=Profile+Views&color=0e75b6&style=flat" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
