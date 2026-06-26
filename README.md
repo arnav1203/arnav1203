@@ -1,8 +1,5 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arnav%20Asthana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Finance%20%26%20Markets%20Enthusiast&descAlignY=55&descSize=16"/>
-
-</div>
+# Hi 👋, I'm Arnav Asthana
+### Full Stack Developer · Finance & Markets Enthusiast · India
 
 <div align="center">
   <a href="https://arnav-asthana.netlify.app/" target="_blank">
@@ -103,8 +100,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arnav1203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav1203&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arnav1203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=arnav1203&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav1203&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -115,7 +112,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnav1203&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arnav1203&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
@@ -133,7 +130,5 @@
 ### 💡 *"Code is like financial markets — patterns repeat, but context always matters."*
 
 <img src="https://komarev.com/ghpvc/?username=arnav1203&label=Profile+Views&color=0e75b6&style=flat" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
